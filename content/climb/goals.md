@@ -3,7 +3,7 @@ title: "climbing goals"
 ---
 
 # birthday challenge
-> 28 pitches at the gunks in a weekend
+> 28 pitches at the [gunks](climb/gunks) in a weekend
 motivation: excuse to climb a lot and spend time with my friends who also share the same passion
 
 # gym climbiing

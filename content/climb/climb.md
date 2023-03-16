@@ -1,5 +1,5 @@
 ---
-title: "climb"
+title: "climbing"
 tags:
 - climb
 ---
