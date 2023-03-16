@@ -1,5 +1,5 @@
 ---
-title: parkline
+title: "parkline"
 tags:
 - parkline
 - slack
