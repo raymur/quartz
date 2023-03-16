@@ -4,17 +4,14 @@ tags:
 - surf
 - slack
 ---
-notes
+These are my personal notes.  They are public.  With time we will see if that is a good or bad idea.
 
 I may be addicted to being in flow state.  My mind frequently will wander to the following topics:
 
-1. [slack](slack/index.md)
-1. [climb](climb/index.md)
-1. [surf](surf/index.md)
-
 1. [slack](slack)
-1. [climb](climb)
-1. [surf](surf/)
+2. [climb](climb)
+3. [surf](surf)
 
-[tho](thoughts)
-[tho](thoughts/wandering.md)
+other stuff
+- [my thoughts](thoughts)
+- [scrap](thoughts/wandering.md)

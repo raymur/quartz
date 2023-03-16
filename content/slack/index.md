@@ -6,4 +6,4 @@ tags:
 slack body
 1. [parkline](parkline.md)
 
-this is related to [surf](surf/index.md) and climb and goals. (test)
+The origins of modern day slackline can be traced back to [climbing](climb).  Now they are much less related.

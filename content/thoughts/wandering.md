@@ -1,5 +1,5 @@
 ---
-title: "wandering mind"
+title: "wandering"
 tags:
 - scrap
 - wip
