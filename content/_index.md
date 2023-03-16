@@ -4,7 +4,7 @@ tags:
 - surf
 - slack
 ---
-These are my personal notes.  They are public.  With time we will see if that is a good or bad idea.
+These are my personal notes.  They are public.  With time we will see if that is a good or bad idea.  
 
 I may be addicted to being in flow state.  My mind frequently will wander to the following topics:
 

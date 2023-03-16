@@ -2,6 +2,7 @@
 title: "climbing goals"
 tags:
 - climb
+- goals
 ---
 
 # birthday challenge
