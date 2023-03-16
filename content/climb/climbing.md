@@ -21,3 +21,8 @@ for multipitch trad climbing add to rear gear loop:
 - cordalette + biner
 _*possibly more gear can be added for rescue, building belays, etc_
 _*the left and right gear loops feel a little crowded with more than 8 biners_
+
+rear gear loop diy ideas
+------------------------
+[beautiful](https://www.mountainproject.com/forum/topic/121493813/how-to-diy-gear-loops-on-a-harness#ForumMessage-121509913)
+[lazy](https://www.mountainproject.com/forum/topic/121493813/how-to-diy-gear-loops-on-a-harness#ForumMessage-121512909)
