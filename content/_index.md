@@ -15,3 +15,4 @@ I may be addicted to being in flow state.  My mind frequently will wander to the
 other stuff
 - [my thoughts](thoughts)
 - [scrap](thoughts/wandering.md)
+- [climb goals](climb/goals.md)
