@@ -12,3 +12,11 @@ motivation: excuse to climb a lot and spend time with my friends who also share 
 # gym climbing
 > send all of the hardest, most sandbagged routes at your current grade
 motivation: you want to work on weaknesses and put yourself on stuff that scares you a bit.  Pretty much everything is (relatively) safe in a gym, so work on getting rid of that fear/mental laziness.
+
+# pushing grades
+> climb >= 5.11a this year
+grades are somewhat arbitrary.  It's importatnt not to tie your self-worth to a number.  This goal is mostly here to remind me to leave my comfort zone and attempt climbs I wont necissarily send.
+
+# powerlinez sport climbs
+> send all 5 routes at that crag
+currently I have just 1 route left.  Hopefully I can close out this mini chapter soon.
