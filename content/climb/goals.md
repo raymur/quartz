@@ -8,6 +8,9 @@ tags:
 # birthday challenge
 > 28 pitches at the [gunks](climb/gunks) in a weekend
 motivation: excuse to climb a lot and spend time with my friends who also share the same passion
+[Example](https://www.mountainproject.com/forum/topic/111868034/gunks-birthday-challenge)
+- 2 partners that swap following: 1 to follow, one to scope out next route
+- fixed rap lines
 
 # gym climbing
 > send all of the hardest, most sandbagged routes at your current grade

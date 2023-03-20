@@ -15,6 +15,14 @@ tags:
 # send a 70m line
 - 60m feels good, lets stretch the distance out
 
-# exposure on a highline
-- motivation: in order to turn easily
-- leave your comfort zone
+# ~~exposure on a highline~~
+- ~~motivation: in order to turn easily~~
+- ~~leave your comfort zone~~
+- I tried it and felt pretty good, now time to work on it more
+
+# Solo Rig a highline
+- already tagged solo
+- almost rigged a line solo but had some help pulling the rig across (and tensioning)
+- practice more methods to accomplish this (z drag, etc)
+- fix twisted tapes on line
+- buy double pulleys for ease of tensioning
