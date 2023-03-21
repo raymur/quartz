@@ -35,3 +35,8 @@ racking biners
 rappelling
 ----------
 - learn to be super efficient
+
+gear
+----
+- trad
+  - double up on 1 and 2 friends or get equivalent totems?
