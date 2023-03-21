@@ -26,3 +26,12 @@ rear gear loop diy ideas
 ------------------------
 [beautiful](https://www.mountainproject.com/forum/topic/121493813/how-to-diy-gear-loops-on-a-harness#ForumMessage-121509913)
 [lazy](https://www.mountainproject.com/forum/topic/121493813/how-to-diy-gear-loops-on-a-harness#ForumMessage-121512909)
+
+racking biners
+--------------
+- trade off between size, usability, weight (and price to some degree)
+- are light tiny wiregates worth it? maybe a quiver is nice
+
+rappelling
+----------
+- learn to be super efficient

@@ -23,3 +23,9 @@ grades are somewhat arbitrary.  It's importatnt not to tie your self-worth to a 
 # powerlinez sport climbs
 > send all 5 routes at that crag
 currently I have just 1 route left.  Hopefully I can close out this mini chapter soon.
+
+# gunks 5.9
+> push it
+send a classic 5.9
+- headpoint it if you need
+- golden dream, PK

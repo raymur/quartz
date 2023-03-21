@@ -26,3 +26,10 @@ tags:
 - practice more methods to accomplish this (z drag, etc)
 - fix twisted tapes on line
 - buy double pulleys for ease of tensioning
+
+# Devils Kitchen
+> rig in the catskills
+
+# ADK rig
+> highline in the dacks this year
+- possibly chapel pond
