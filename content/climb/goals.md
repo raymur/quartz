@@ -6,10 +6,11 @@ tags:
 ---
 
 # Mission/Values
-> To journey the world enjoying the variety of movements and adventures that rock has to offer.
-> To value safety over sending.
-> To cherish the connections with other climbers I meet along the way.
-I'd like to put this into more digestable, actionale terms: stive to be a generalist by always focusing on your weaknesses.
+* To journey the world enjoying the variety of movements and adventures that rock has to offer.
+* To value safety over sending.
+* To cherish the connections with other climbers I meet along the way.
+* 
+* I'd like to put this into more digestable, actionale terms: stive to be a generalist by always focusing on your weaknesses.
 1. work on your weaknesses (Tricky sequences, both powerful and techy crimpy moves, body position dependant negative holds, OW, finger cracks)
 2. Prevent injury (both minor and catostrophic)
 3. Push yourself.  I've sent 20 5.10b's but only 5 5.10c's.  Throw yourself at slightly more difficult routes.
